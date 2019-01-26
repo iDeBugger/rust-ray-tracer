@@ -1,0 +1,9 @@
+[package]
+name = "ray-tracer"
+version = "0.1.0"
+authors = ["iDeBugger Freeman <me@idebugger.ru>"]
+edition = "2018"
+
+[dependencies]
+image = "0.21.0"
+nalgebra = "0.16"
